@@ -34,7 +34,7 @@ $('.banner_slider').slick({
 
 $('.shop_slider').slick({
   slidesToShow: 5,
-  slidesToScroll: 3,
+  slidesToScroll: 5,
   autoplay: false,
   autoplaySpeed: 2000,
   prevArrow:false,
