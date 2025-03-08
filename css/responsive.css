@@ -1,0 +1,412 @@
+@media (min-width : 1400px) {
+
+
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====    CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+
+}
+
+@media (min-width : 1200px) and (max-width: 1399.98px) {
+
+ /* ==== BANNER  CSS START ==== */
+
+ #BANNER {
+    padding: 83px 0 20px;
+    margin: auto;
+}
+
+.slick-track {
+    display: flex;
+    gap: 20px;
+}
+
+.banner_text_box h2 {
+    font-size: 48px;
+}
+
+.banner_text_box p {
+    max-width: 500px;
+    font-size: 18px;
+}
+
+.banner_text_box a {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 18px 25px;
+    margin-top: 15px;
+}
+
+.banner_text_box {
+    transform: translate(40px, -278px);
+}
+
+
+/* +++  BANNER  CSS END   +++ */
+
+
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+
+}
+
+
+
+@media (min-width : 992px) and (max-width: 1199.98px) {
+
+
+
+    /* ==== BANNER  CSS START ==== */
+
+    #BANNER {
+        padding: 83px 0 20px;
+        margin: auto;
+    }
+
+    .slick-track {
+        display: flex;
+        gap: 15px;
+    }
+
+    .banner_text_box h2 {
+        font-size: 35px;
+    }
+
+    .banner_text_box p {
+        max-width: 439px;
+        font-size: 17px;
+    }
+
+    .banner_text_box a {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 16px 27px;
+        margin-top: 7px;
+    }
+
+    .banner_text_box {
+        transform: translate(32px, -220px);
+    }
+    /* +++  BANNER  CSS END   +++ */
+
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+
+
+}
+
+@media (min-width : 768px) and (max-width: 991.98px) {
+
+
+    /* ==== BANNER  CSS START ==== */
+
+    #BANNER {
+        padding: 83px 0 20px;
+        margin: auto;
+    }
+
+    .slick-track {
+        display: flex;
+        gap: 0px;
+    }
+
+    .banner_text_box h2 {
+        font-size: 60px;
+    }
+
+    .banner_text_box p {
+     
+        font-size: 20px;
+    }
+
+    .banner_text_box a {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 20px 27px;
+        margin-top: 15px;
+    }
+
+    .banner_text_box {
+        transform: translate(40px, -308px);
+    }
+
+
+    /* +++  BANNER  CSS END   +++ */
+
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+
+
+
+}
+
+@media (min-width : 576px) and (max-width: 767.98px) {
+
+
+
+    /* ==== BANNER  CSS START ==== */
+
+    #BANNER {
+        padding: 83px 0 20px;
+        margin: auto;
+    }
+
+    .slick-track {
+        display: flex;
+        gap: 0px;
+    }
+
+    .banner_text_box h2 {
+        font-size: 45px;
+    }
+
+    .banner_text_box p {
+        max-width: 439px;
+        font-size: 17px;
+    }
+
+    .banner_text_box a {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 16px 27px;
+        margin-top: 7px;
+    }
+
+    .banner_text_box {
+        transform: translate(38px, -258px);
+    }
+
+    /* +++  BANNER  CSS END   +++ */
+
+
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+}
+
+
+
+@media (max-width : 575.98px) {
+
+
+
+    /* ==== BANNER  CSS START ==== */
+
+    #BANNER {
+        padding: 83px 0 20px;
+        margin: auto;
+    }
+
+    .slick-track {
+        display: flex;
+        gap: 0px;
+    }
+
+    .banner_text_box h2 {
+        font-size: 35px;
+    }
+
+    .banner_text_box p {
+        display: none;
+    }
+
+    .banner_text_box a {
+        font-size: 16px;
+        font-weight: 500;
+        padding: 14px 19px;
+        margin-top: 7px;
+    }
+
+    .banner_text_box {
+        transform: translate(22px, -161px);
+    }
+
+    /* +++  BANNER  CSS END   +++ */
+
+
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+    /* ====   CSS START ==== */
+
+
+    /* +++    CSS END   +++ */
+
+
+}
