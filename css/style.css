@@ -472,7 +472,45 @@ nav input{
 
 /* (((((((((((((((((   TOP_PICK  CSS START     )))))))))))))))) */
 
+#TOP_PICK{
+ padding: 0 0 150px;
+}
 
+.top_pick_card{
+  position: relative;
+  transition: all linear .3s;
+  overflow: hidden;
+}
+.top_pick_img_a  img{
+  max-height: 616px;
+	max-width: 463px;
+}
+.top_pick_img {
+  overflow: hidden;
+}
+
+.top_pick_img img {
+	max-height: 616px;
+	max-width: 463px;
+}
+
+.top_pick_img_a {
+	overflow: hidden;
+	position: absolute;
+	transform: translateY(-616px);
+	opacity: 0;
+	transition: all linear .3s;
+}
+
+.top_pick_card:hover .top_pick_img_a{
+  opacity: 1;
+}
+
+.top_pick_content{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
 /* :::::::<<<<<<<<<<    TOP_PICK  CSS END     >>>>>>>>>>:::::: */
 
